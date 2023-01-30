@@ -1,0 +1,20 @@
+{
+  "name": "firstrepository",
+  "version": "1.0.0",
+  "description": "Test work npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaS13/FirstRepository.git"
+  },
+  "author": "Alina Shestopalova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaS13/FirstRepository/issues"
+  },
+  "homepage": "https://github.com/AlinaS13/FirstRepository#readme"
+}
